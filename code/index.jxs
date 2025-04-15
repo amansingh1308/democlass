@@ -1,0 +1,9 @@
+https://github.com/amansingh1308/democlass.git
+
+events
+
+- events are user actions like clicks, key presses, or form submissions that trigger a response in your application. React uses a synthetic event system, which provides a cross-browser compatible way to handle events. 
+
+synthetic events in React?
+
+-  synthetic events are a cross-browser wrapper around native browser events, providing a consistent and predictable way to handle events across different browsers.`
