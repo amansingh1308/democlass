@@ -7,3 +7,17 @@ events
 synthetic events in React?
 
 -  synthetic events are a cross-browser wrapper around native browser events, providing a consistent and predictable way to handle events across different browsers.`
+
+What is React ?.
+- React (also called React.js or ReactJS) is a JavaScript library used for building user interfaces — especially single-page applications where you need a fast, dynamic experience without reloading the whole page.
+
+It was created by Facebook (now Meta) and is maintained by Meta along with a community of developers.
+
+What are the major features of React?
+- The major features of React are:
+
+Uses JSX syntax, a syntax extension of JS that allows developers to write HTML in their JS code.
+It uses Virtual DOM instead of Real DOM considering that Real DOM manipulations are expensive.
+Supports server-side rendering which is useful for Search Engine Optimizations(SEO).
+Follows Unidirectional or one-way data flow or data binding.
+Uses reusable/composable UI components to develop the view.
