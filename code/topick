@@ -1,0 +1,129 @@
+
+re
+📘 Core Concepts
+JSX and rendering elements
+
+Components: Functional vs Class
+
+Props and State
+
+Event handling
+
+Conditional rendering
+
+Lists and keys
+
+🧠 Hooks
+useState, useEffect
+
+useContext, useReducer
+
+useMemo, useCallback
+
+Custom Hooks
+
+Rules of Hooks
+
+⚙️ Component Design
+Lifting state up
+
+Controlled vs uncontrolled components
+
+Component reusability and composition
+
+Prop drilling and solutions (Context API, Redux)
+
+🧱 Performance Optimization
+Memoization (React.memo, useMemo, useCallback)
+
+Virtual DOM diffing
+
+Lazy loading and code splitting
+
+📦 State Management
+Context API
+
+Redux / Redux Toolkit
+
+Zustand, Recoil, Jotai (if relevant to your stack)
+
+🧪 Testing
+React Testing Library
+
+Jest
+
+Testing Hooks and components
+
+🔧 React Internals & Advanced
+Reconciliation process
+
+Fiber architecture
+
+Concurrent rendering (React 18)
+
+Suspense and Error Boundaries
+
+Portals
+
+🌐 Next.js Interview Topics
+🛠️ Core Concepts
+Pages and routing
+
+File-based routing
+
+Dynamic routes
+
+Nested routes
+
+Linking between pages (next/link)
+
+⚙️ Rendering Methods
+SSR (Server-Side Rendering) – getServerSideProps
+
+SSG (Static Site Generation) – getStaticProps, getStaticPaths
+
+ISR (Incremental Static Regeneration)
+
+CSR (Client-Side Rendering)
+
+🌍 API Routes
+Creating and using API endpoints
+
+Middleware basics (Next.js 13+)
+
+🧬 Next.js 13/14 App Router
+App Directory vs Pages Directory
+
+layout.js, page.js, loading.js, error.js
+
+useRouter, useParams, and useSearchParams
+
+Server components vs client components
+
+Metadata handling
+
+📦 Performance
+Image optimization (next/image)
+
+Script optimization (next/script)
+
+Code splitting
+
+Font optimization
+
+🔒 Security & Auth
+Authentication with NextAuth.js or custom auth
+
+Protecting routes
+
+Handling cookies/tokens securely
+
+📈 Deployment & SEO
+Vercel deployment
+
+SEO best practices with next/head or metadata
+
+Sitemap and robots.txt
+
+Analytics integration
+

@@ -21,3 +21,13 @@ It uses Virtual DOM instead of Real DOM considering that Real DOM manipulations 
 Supports server-side rendering which is useful for Search Engine Optimizations(SEO).
 Follows Unidirectional or one-way data flow or data binding.
 Uses reusable/composable UI components to develop the view.
+
+
+
+📌 Recommended Practice
+If you're working solo, consistency is king. If you're working on a team, follow the project's established style.
+
+👉 A balanced convention:
+    Folders: kebab-case
+    Component files: PascalCase
+    Utility/hooks/API files: camelCase or kebab-case
