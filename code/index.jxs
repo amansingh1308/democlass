@@ -22,8 +22,14 @@ Supports server-side rendering which is useful for Search Engine Optimizations(S
 Follows Unidirectional or one-way data flow or data binding.
 Uses reusable/composable UI components to develop the view.
 
+How is JSX transformed into JavaScript? (Understand the role of Babel.)
 
+- JSX (JavaScript XML) is a syntax extension used with React that allows you to write HTML-like code inside JavaScript. However, browsers don't understand JSX directly. This is where Babel comes in.
 
+Role of Babel in JSX Transformation
+Babel is a JavaScript compiler that transforms JSX into plain JavaScript (specifically, into React.createElement() calls), which browsers can understand.
+
+"Babel is a compiler that transforms code from one language to another. In the case of JSX, it transforms the JSX syntax into equivalent JavaScript code that can be understood by browsers. "
 📌 Recommended Practice
 If you're working solo, consistency is king. If you're working on a team, follow the project's established style.
 
@@ -31,3 +37,7 @@ If you're working solo, consistency is king. If you're working on a team, follow
     Folders: kebab-case
     Component files: PascalCase
     Utility/hooks/API files: camelCase or kebab-case
+
+
+What Are React Components?
+- React components are the building blocks of any React application. They are reusable, independent pieces of UI that return JSX to describe what should appear on the screen.
